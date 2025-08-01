@@ -30,7 +30,7 @@ kazukijo.dev@gmail.com
 
 ## 🚀 Featured Projects
 
-### ♻️ [P2P Marketplace – Monogatari](https://monogatari-final-project-12ykiptgp-kazuki0418s-projects.vercel.app)
+### ♻️ [P2P Marketplace – Monogatari](https://monogatari-final-project.vercel.app)
 ![image](https://github.com/user-attachments/assets/e2284b35-5ba3-48c8-ac88-384ad84145c2)
 **[GitHub Repository](https://github.com/kazuki-0418/Monogatari-Final-Project)**
 
