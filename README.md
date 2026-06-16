@@ -1,3 +1,4 @@
+
 ## 👋 About Me
 
 Hi, I'm **Kazuki**, a fullstack engineer from **Osaka, Japan** with **4+ years of hands-on development experience**.
@@ -31,14 +32,15 @@ kazukijo.dev@gmail.com
 ## 🚀 Featured Projects
 
 ### ♻️ [P2P Marketplace – Monogatari](https://app.monogatari-market.com)
-![image](https://github.com/kazuki-0418/Monogatari/blob/main/frontend/public/og-image.png)
-
+<img width="1200" height="630" alt="og-image (2)" src="https://github.com/user-attachments/assets/155d03af-258d-4f03-878e-44ed3edf5b80" />
 A peer-to-peer reuse marketplace for Japanese students and working holidaymakers in Vancouver — agree over chat, pay with Stripe, and hand off in person.
 Built with Next.js 15, NestJS, GraphQL, Supabase, and Stripe, with real-time chat via Socket.IO.
 
 ### 🌏 [RoamLore](https://roamlore.app)
 
-![image](https://github.com/kazuki-0418/RoamLore/blob/main/lp/public/og-image.png)
+<img width="1200" height="630" alt="og-image (1)" src="https://github.com/user-attachments/assets/ea729d7f-0d57-40e6-9045-730f1bae363f" />
+
+
 
 **Explore the world through play — geography, culture & history. Starting with Japan.**
 A global learning platform to explore countries through daily quizzes and spaced-repetition review — geography, culture, history, and language.
