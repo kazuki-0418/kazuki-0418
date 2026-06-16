@@ -38,8 +38,7 @@ Built with Next.js 15, NestJS, GraphQL, Supabase, and Stripe, with real-time cha
 
 ### 🌏 [RoamLore](https://roamlore.app)
 
-<img width="1200" height="630" alt="og-image (1)" src="https://github.com/user-attachments/assets/ea729d7f-0d57-40e6-9045-730f1bae363f" />
-
+<img width="1024" height="500" alt="roamlore_feature_graphic" src="https://github.com/user-attachments/assets/798b1e12-83a5-4284-8604-6c17e3efe80c" />
 
 
 **Explore the world through play — geography, culture & history. Starting with Japan.**
