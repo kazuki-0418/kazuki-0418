@@ -32,7 +32,6 @@ kazukijo.dev@gmail.com
 
 ### ♻️ [P2P Marketplace – Monogatari](https://app.monogatari-market.com)
 ![image](https://github.com/kazuki-0418/Monogatari/blob/main/frontend/public/og-image.png)
-**[GitHub Repository](https://github.com/kazuki-0418/Monogatari)**
 
 A peer-to-peer reuse marketplace for Japanese students and working holidaymakers in Vancouver — agree over chat, pay with Stripe, and hand off in person.
 Built with Next.js 15, NestJS, GraphQL, Supabase, and Stripe, with real-time chat via Socket.IO.
@@ -40,8 +39,6 @@ Built with Next.js 15, NestJS, GraphQL, Supabase, and Stripe, with real-time cha
 ### 🌏 [RoamLore](https://roamlore.app)
 
 ![image](https://github.com/kazuki-0418/RoamLore/blob/main/lp/public/og-image.png)
-
-**[GitHub Repository](https://github.com/kazuki-0418/RoamLore)**
 
 **Explore the world through play — geography, culture & history. Starting with Japan.**
 A global learning platform to explore countries through daily quizzes and spaced-repetition review — geography, culture, history, and language.
