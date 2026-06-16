@@ -31,19 +31,21 @@ kazukijo.dev@gmail.com
 ## 🚀 Featured Projects
 
 ### ♻️ [P2P Marketplace – Monogatari](https://app.monogatari-market.com)
-![image](https://github.com/user-attachments/assets/e2284b35-5ba3-48c8-ac88-384ad84145c2)
-**[GitHub Repository](https://github.com/kazuki-0418/Monogatari-Final-Project)**
+![image](https://github.com/kazuki-0418/Monogatari/blob/main/frontend/public/og-image.png)
+**[GitHub Repository](https://github.com/kazuki-0418/Monogatari)**
 
-A secondhand marketplace focused on **sustainability** for short-term residents
-Built with Next.js, Supabase, and Stripe integration.
+A peer-to-peer reuse marketplace for Japanese students and working holidaymakers in Vancouver — agree over chat, pay with Stripe, and hand off in person.
+Built with Next.js 15, NestJS, GraphQL, Supabase, and Stripe, with real-time chat via Socket.IO.
 
-### 🎮 [Trivia Quiz Game](https://qui-p4ewk6ezi-kazuki0418s-projects.vercel.app)
-![image](https://github.com/user-attachments/assets/9d3c41f1-0f04-453a-a638-6aebd95c6f56)
+### 🌏 [RoamLore](https://roamlore.app)
 
+![image](https://github.com/kazuki-0418/RoamLore/blob/main/lp/public/og-image.png)
 
-**[GitHub Repository](https://github.com/kazuki-0418/Qui-zoo)** 
+**[GitHub Repository](https://github.com/kazuki-0418/RoamLore)**
 
-A fast-paced quiz game that sharpens memory and reflexes.
+**Explore the world through play — geography, culture & history. Starting with Japan.**
+A global learning platform to explore countries through daily quizzes and spaced-repetition review — geography, culture, history, and language.
+Built with Flutter, self-hosted Supabase, and a FastAPI AI pipeline.
 
 ## 🎯 Current Goal
 
