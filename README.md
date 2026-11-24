@@ -1,5 +1,3 @@
-![Kazuki — Indie Developer](banner.png)
-
 ## 👋 About Me
 
 Hi, I'm **Kazuki**, an indie developer from **Osaka, Japan**.
