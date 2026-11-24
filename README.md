@@ -15,11 +15,9 @@ kazukijo.dev@gmail.com
 
 ## 📱 What I'm Building
 
-<img align="right" width="150" src="canpitch-panel.jpg" alt="canpitch practice screen">
-
-<br>
-
 ### canpitch
+
+<img align="right" width="140" src="canpitch-panel.jpg" alt="canpitch practice screen">
 
 canpitch is interview practice for Japanese-speaking job changers aiming at foreign and overseas tech companies.
 
@@ -36,12 +34,9 @@ iOS / Android · Flutter · Beta on TestFlight
 <br clear="both">
 <br>
 
-<img align="right" width="150" src="kivori.jpg" alt="Kivori person card">
-
-<br>
-<br>
-
 ### Kivori
+
+<img align="right" width="140" src="kivori.jpg" alt="Kivori person card">
 
 Kivori is a quiet, private CRM for remembering the people you meet at networking events and business meetings.
 
