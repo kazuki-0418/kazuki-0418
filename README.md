@@ -1,1 +1,61 @@
-IVtLYXp1a2kg4oCUIEluZGllIERldmVsb3Blcl0oYmFubmVyLnBuZykKCiMjIPCfkYsgQWJvdXQgTWUKCkhpLCBJJ20gKipLYXp1a2kqKiwgYW4gaW5kaWUgZGV2ZWxvcGVyIGZyb20gKipPc2FrYSwgSmFwYW4qKi4KSSBkZXNpZ24sIGJ1aWxkLCBhbmQgc2hpcCBteSBvd24gYXBwcyDigJQgY3VycmVudGx5ICoqY2FucGl0Y2gqKiBhbmQgKipLaXZvcmkqKi4KQmVmb3JlIGdvaW5nIGluZGllLCBJIHdvcmtlZCBhcyBhIGZ1bGxzdGFjayBlbmdpbmVlciBmb3IgNCsgeWVhcnMsIHR1cm5pbmcgcmF3IGlkZWFzIGludG8gc3RydWN0dXJlZCwgZGV0YWlsLW9yaWVudGVkIHByb2R1Y3RzLgoKIyMjIENvbnRhY3QgTWUKClshW2ltYWdlXShodHRwczovL2dpdGh1Yi5jb20vdXNlci1hdHRhY2htZW50cy9hc3NldHMvYzdmODBjNTEtMGRlNy00Y2M0LThmNzktZDkwZDZiNDY2ZDYwKV0obWFpbHRvOmthenVraWpvLmRldkBnbWFpbC5jb20pClshW2ltYWdlXShodHRwczovL2dpdGh1Yi5jb20vdXNlci1hdHRhY2htZW50cy9hc3NldHMvNTYwYzYxZmQtMTA3NC00NTU1LThiOTQtOGU0NjUzZjcxYjZjKV0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2thenVraS1qby01NDYxYjAyYjUvKQoKa2F6dWtpam8uZGV2QGdtYWlsLmNvbQoKCgojIyDwn5OxIFdoYXQgSSdtIEJ1aWxkaW5nCgojIyMgY2FucGl0Y2gKCiFbY2FucGl0Y2hdKGNhbnBpdGNoLnBuZykKCkludGVydmlldyBwcmFjdGljZSBmb3IgSmFwYW5lc2Utc3BlYWtpbmcgam9iIGNoYW5nZXJzIGFpbWluZyBhdCBmb3JlaWduIGFuZCBvdmVyc2VhcyB0ZWNoIGNvbXBhbmllcy4KSWYgeW91IGZyZWV6ZSB3aGVuIHNwZWFraW5nIGFib3V0IHlvdXIgZXhwZXJpZW5jZSBpbiB0aGUgU1RBUiBmb3JtYXQsIGNhbnBpdGNoIGhlbHBzIHlvdSBhbnN3ZXIgaW4geW91ciBvd24gd29yZHMg4oCUIGEgbGl0dGxlIHRoZW9yeSwgdGhlbiBzcGVha2luZyBwcmFjdGljZS4KaU9TIC8gQW5kcm9pZCDCtyBGbHV0dGVyIMK3IEJldGEgb24gVGVzdEZsaWdodAoKW2NhbnBpdGNoLmNvbV0oaHR0cHM6Ly9jYW5waXRjaC5jb20pCgojIyMgS2l2b3JpCgohW0tpdm9yaV0oa2l2b3JpLnBuZykKCkEgcXVpZXQsIHByaXZhdGUgQ1JNIGZvciByZW1lbWJlcmluZyB0aGUgcGVvcGxlIHlvdSBtZWV0LgpUYWxrIGZvciBhIGZldyBzZWNvbmRzIGFmdGVyIGEgbWVldGluZyDigJQgS2l2b3JpIHR1cm5zIGl0IGludG8gYSBjYXJkIHdpdGggYSBzdW1tYXJ5IGFuZCBhIHF1ZXN0aW9uIHRvIGFzayBuZXh0IHRpbWUuCmlPUyDCtyBPbiB0aGUgQXBwIFN0b3JlCgpbQXBwIFN0b3JlXShodHRwczovL2FwcHMuYXBwbGUuY29tL2pwL2FwcC9raXZvcmktJUUzJTgyJUFEJUUzJTgzJTlDJUUzJTgzJUFBLSVFNCVCQSVCQSVFOCU4NCU4OCVFMyU4MyVBMSVFMyU4MyVBMi0lRTQlQkMlOUElRTMlODElQTMlRTMlODElOUYlRTQlQkElQkElRTMlODIlOTIlRTglQTglOTglRTklOEMlQjIvaWQ2Nzg3NjI3NDAxP3VvPTQpCgojIyDwn5ug77iPIFRlY2ggU3RhY2sKCiMjIyBGcm9udGVuZApbIVtNeSBTa2lsbHNdKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1qcyx0cyxyZWFjdCxuZXh0anMsc3ZlbHRlLGZsdXR0ZXIsZGFydCx2aXRlLHRhaWx3aW5kY3NzLHNhc3Msc3R5bGVkY29tcG9uZW50cyxtYXRlcmlhbHVpLHJlZHV4LGFwb2xsbyxhc3RybyxyZW1peCldKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYpCgojIyMgQmFja2VuZApbIVtNeSBTa2lsbHNdKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1ub2RlanMsdHMscHksZXhwcmVzcyxmYXN0YXBpLG5lc3RqcyxncmFwaHFsKV0oaHR0cHM6Ly9za2lsbGljb25zLmRldikKCiMjIyBJbmZyYXN0cnVjdHVyZSAvIERCClshW015IFNraWxsc10oaHR0cHM6Ly9za2lsbGljb25zLmRldi9pY29ucz9pPXByaXNtYSxwb3N0Z3JlcyxteXNxbCxzcWxpdGUsbW9uZ29kYixjbG91ZGZsYXJlLGZpcmViYXNlLGdjcCx2ZXJjZWwsZG9ja2VyKV0oaHR0cHM6Ly9za2lsbGljb25zLmRldikKCiMjIyBUb29scwpbIVtNeSBTa2lsbHNdKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1naXQsZ2l0aHViLGdpdGh1YmFjdGlvbnMsdnNjb2RlLHBvc3RtYW4sZmlnbWEsbm90aW9uLG9ic2lkaWFuLG5wbSx5YXJuLHdvcmRwcmVzcyxhbmRyb2lkc3R1ZGlvKV0oaHR0cHM6Ly9za2lsbGljb25zLmRldikKCgojIyDwn46vIEN1cnJlbnQgR29hbAoKR3Jvd2luZyBjYW5waXRjaCdzIGJldGEgdG93YXJkIGl0cyBwdWJsaWMgcmVsZWFzZSDigJQgYW5kIGJ1aWxkaW5nIHRvd2FyZCBkb2luZyBidXNpbmVzcyBpbiBDYW5hZGEuCgojIyDwn4yQIFBvcnRmb2xpbwoKVmlzaXQgbXkgcG9ydGZvbGlvOiBba2F6dWtpMDQxOC52ZXJjZWwuYXBwXShodHRwczovL3BvcnRmb2xpby1pNDY4LXFjOHV2M3Z0di1rYXp1a2kwNDE4cy1wcm9qZWN0cy52ZXJjZWwuYXBwKQo=
+![Kazuki — Indie Developer](banner.png)
+
+## 👋 About Me
+
+Hi, I'm **Kazuki**, an indie developer from **Osaka, Japan**.
+I design, build, and ship my own apps — currently **canpitch** and **Kivori**.
+Before going indie, I worked as a fullstack engineer for 4+ years, turning raw ideas into structured, detail-oriented products.
+
+### Contact Me
+
+[![image](https://github.com/user-attachments/assets/c7f80c51-0de7-4cc4-8f79-d90d6b466d60)](mailto:kazukijo.dev@gmail.com)
+[![image](https://github.com/user-attachments/assets/560c61fd-1074-4555-8b94-8e4653f71b6c)](https://www.linkedin.com/in/kazuki-jo-5461b02b5/)
+
+kazukijo.dev@gmail.com
+
+
+
+## 📱 What I'm Building
+
+### canpitch
+
+![canpitch](canpitch.png)
+
+Interview practice for Japanese-speaking job changers aiming at foreign and overseas tech companies.
+If you freeze when speaking about your experience in the STAR format, canpitch helps you answer in your own words — a little theory, then speaking practice.
+iOS / Android · Flutter · Beta on TestFlight
+
+[canpitch.com](https://canpitch.com)
+
+### Kivori
+
+![Kivori](kivori.png)
+
+A quiet, private CRM for remembering the people you meet.
+Talk for a few seconds after a meeting — Kivori turns it into a card with a summary and a question to ask next time.
+iOS · On the App Store
+
+[App Store](https://apps.apple.com/jp/app/kivori-%E3%82%AD%E3%83%9C%E3%83%AA-%E4%BA%BA%E8%84%88%E3%83%A1%E3%83%A2-%E4%BC%9A%E3%81%A3%E3%81%9F%E4%BA%BA%E3%82%92%E8%A8%98%E9%8C%B2/id6787627401?uo=4)
+
+## 🛠️ Tech Stack
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,flutter,dart,vite,tailwindcss,sass,styledcomponents,materialui,redux,apollo,astro,remix)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,py,express,fastapi,nestjs,graphql)](https://skillicons.dev)
+
+### Infrastructure / DB
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,mysql,sqlite,mongodb,cloudflare,firebase,gcp,vercel,docker)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,notion,obsidian,npm,yarn,wordpress,androidstudio)](https://skillicons.dev)
+
+
+## 🎯 Current Goal
+
+Growing canpitch's beta toward its public release — and building toward doing business in Canada.
+
+## 🌐 Portfolio
+
+Visit my portfolio: [kazuki0418.vercel.app](https://portfolio-i468-qc8uv3vtv-kazuki0418s-projects.vercel.app)
