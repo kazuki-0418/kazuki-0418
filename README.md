@@ -17,7 +17,7 @@ kazukijo.dev@gmail.com
 
 ### canpitch
 
-![canpitch](canpitch.png)
+<img src="canpitch.webp" width="320" alt="canpitch practice screen">
 
 Interview practice for Japanese-speaking job changers aiming at foreign and overseas tech companies.
 If you freeze when speaking about your experience in the STAR format, canpitch helps you answer in your own words — a little theory, then speaking practice.
@@ -27,7 +27,7 @@ iOS / Android · Flutter · Beta on TestFlight
 
 ### Kivori
 
-![Kivori](kivori.png)
+<img src="kivori.jpg" width="320" alt="Kivori person card">
 
 A quiet, private CRM for remembering the people you meet.
 Talk for a few seconds after a meeting — Kivori turns it into a card with a summary and a question to ask next time.
