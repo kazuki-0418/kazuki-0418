@@ -15,7 +15,7 @@ kazukijo.dev@gmail.com
 
 ## 📱 What I'm Building
 
-<img align="right" width="210" src="canpitch.webp" alt="canpitch practice screen">
+<img align="right" width="150" src="canpitch-panel.jpg" alt="canpitch practice screen">
 
 <br>
 
@@ -36,8 +36,9 @@ iOS / Android · Flutter · Beta on TestFlight
 <br clear="both">
 <br>
 
-<img align="right" width="210" src="kivori.jpg" alt="Kivori person card">
+<img align="right" width="150" src="kivori.jpg" alt="Kivori person card">
 
+<br>
 <br>
 
 ### Kivori
