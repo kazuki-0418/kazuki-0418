@@ -15,35 +15,29 @@ kazukijo.dev@gmail.com
 
 ## 📱 What I'm Building
 
-<table>
-<tr>
-<td valign="top">
-<h3>canpitch</h3>
-<p>Interview practice for Japanese-speaking job changers aiming at foreign and overseas tech companies.<br>
-If you freeze when speaking about your experience in the STAR format, canpitch helps you answer in your own words — a little theory, then speaking practice.<br>
-iOS / Android · Flutter · Beta on TestFlight</p>
-<p><a href="https://canpitch.com">canpitch.com</a></p>
-</td>
-<td valign="top" width="340">
-<img src="canpitch.webp" width="320" alt="canpitch practice screen">
-</td>
-</tr>
-</table>
+<img align="right" width="320" src="canpitch.webp" alt="canpitch practice screen">
 
-<table>
-<tr>
-<td valign="top">
-<h3>Kivori</h3>
-<p>A quiet, private CRM for remembering the people you meet.<br>
-Talk for a few seconds after a meeting — Kivori turns it into a card with a summary and a question to ask next time.<br>
-iOS · On the App Store</p>
-<p><a href="https://apps.apple.com/jp/app/kivori-%E3%82%AD%E3%83%9C%E3%83%AA-%E4%BA%BA%E8%84%88%E3%83%A1%E3%83%A2-%E4%BC%9A%E3%81%A3%E3%81%9F%E4%BA%BA%E3%82%92%E8%A8%98%E9%8C%B2/id6787627401?uo=4">App Store</a></p>
-</td>
-<td valign="top" width="340">
-<img src="kivori.jpg" width="320" alt="Kivori person card">
-</td>
-</tr>
-</table>
+### canpitch
+
+Interview practice for Japanese-speaking job changers aiming at foreign and overseas tech companies.
+If you freeze when speaking about your experience in the STAR format, canpitch helps you answer in your own words — a little theory, then speaking practice.
+iOS / Android · Flutter · Beta on TestFlight
+
+[canpitch.com](https://canpitch.com)
+
+<br clear="both">
+
+<img align="right" width="320" src="kivori.jpg" alt="Kivori person card">
+
+### Kivori
+
+A quiet, private CRM for remembering the people you meet.
+Talk for a few seconds after a meeting — Kivori turns it into a card with a summary and a question to ask next time.
+iOS · On the App Store
+
+[App Store](https://apps.apple.com/jp/app/kivori-%E3%82%AD%E3%83%9C%E3%83%AA-%E4%BA%BA%E8%84%88%E3%83%A1%E3%83%A2-%E4%BC%9A%E3%81%A3%E3%81%9F%E4%BA%BA%E3%82%92%E8%A8%98%E9%8C%B2/id6787627401?uo=4)
+
+<br clear="both">
 
 ## 🛠️ Tech Stack
 
